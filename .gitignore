@@ -1,0 +1,7 @@
+﻿temp/*
+!temp/README.md
+.env
+.env.*
+!.env*.example
+*.log
+__pycache__/
