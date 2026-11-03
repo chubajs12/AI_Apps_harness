@@ -1,5 +1,7 @@
 ﻿temp/*
 !temp/README.md
+# Общие инструменты (SDK, кэши) — бинарники, не в git; описание — docs/01_Общие_инструменты.md
+tools/
 .env
 .env.*
 !.env*.example
